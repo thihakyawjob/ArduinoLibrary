@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For cherry7seg Display Driver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+cherry7seg KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+blinkRate	KEYWORD2
+clear	KEYWORD2
+off	KEYWORD2
+on	KEYWORD2
+isConnected	KEYWORD2
+setBrightness	KEYWORD2
+setCursor	KEYWORD2
+setDigits	KEYWORD2
+#writeLowLevel	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
